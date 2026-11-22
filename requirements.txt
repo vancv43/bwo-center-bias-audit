@@ -1,0 +1,7 @@
+numpy>=1.26
+scipy>=1.11
+pandas>=2.0
+statsmodels>=0.14
+cma==4.4.4
+mealpy==3.0.3
+pytest>=7

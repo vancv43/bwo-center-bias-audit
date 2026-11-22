@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.so
+results_new/
+analysis/out/*
+!analysis/out/.gitkeep
